@@ -16,7 +16,7 @@ const Public = () => {
         <address className="public__addr">
           Don Whale Repairs
           <br />
-          No 2, computer village,
+          No 3, Sango Oya,
           <br />
           Lagos City, Nigeria
           <br />
