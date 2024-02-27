@@ -23,7 +23,7 @@
   --INPUT-INVALID: #F00;
 }
 
-/* || UTILITY CLASSES */
+
 .errmsg {
   display: inline-block;
   background-color: var(--TABLE-BGCOLOR);
