@@ -112,13 +112,7 @@ const EditNoteForm = ({ users, note }) => {
             >
               <FontAwesomeIcon icon={faSave} />
             </button>
-            {/* <button
-              className="icon-button"
-              title="Delete"
-              onClick={onDeleteNoteClicked}
-            >
-              <FontAwesomeIcon icon={faTrashCan} />
-            </button> */}
+           
             {deleteButton}
           </div>
         </div>
