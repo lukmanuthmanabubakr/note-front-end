@@ -66,7 +66,6 @@ export const {
   useDeleteUserMutation,
 } = usersApiSlice;
 
-// returns the query result object
 export const selectUsersResult = usersApiSlice.endpoints.getUsers.select();
 
 
