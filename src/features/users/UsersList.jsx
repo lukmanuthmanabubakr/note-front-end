@@ -12,7 +12,7 @@ const UsersList = () => {
     pollingInterval: 60000,
 
     refetchOnFocus: true,
-    refetchOnMountOrArgChange: true, // normally if we remount a component, it will refetch the data
+    refetchOnMountOrArgChange: true,
   });
 
   let content;
