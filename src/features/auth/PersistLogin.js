@@ -43,8 +43,6 @@ const PersistLogin = () => {
         }
 
         return () => effectRan.current = true
-
-        // eslint-disable-next-line
     }, [])
 
 
