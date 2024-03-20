@@ -1,6 +1,3 @@
-// const NewNoteForm = () => {
-
-
 import React from 'react'
 
 const NewNoteForm = () => {
